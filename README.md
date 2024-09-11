@@ -1,7 +1,7 @@
 # Official Code of "GeReA: Question-Aware Prompt Captions for Knowledge-based Visual Question Answering"
 
 # !!!!!Repo Under Construction!!!!
-![GeReA](https://github.com/Upper9527/GeReA/tree/main/figs/framework.png)
+![GeReA](https://github.com/Upper9527/GeReA/blob/main/figs/framework.png)
 
 
 **GeReA** is a method for knowledge-based VQA task, as described in ([link to paper](https://arxiv.org/abs/2402.02503)).
@@ -38,11 +38,11 @@ That will create the environment ```gerea``` we used.
 
 ### Comparison with previous methods
 
-![comparison](https://github.com/Upper9527/GeReA/tree/main/figs/1.png)
+![comparison](https://github.com/Upper9527/GeReA/blob/main/figs/1.png)
 
 ### Example visualization
 
-![visualization](https://github.com/Upper9527/GeReA/tree/main/figs/2.png)
+![visualization](https://github.com/Upper9527/GeReA/blob/main/figs/2.png)
 
 ## Contact
 If I cannot timely respond to your questions, you can send the email to maziyu@hnu.edu.cn.
