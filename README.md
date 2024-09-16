@@ -66,7 +66,7 @@ The prediction results of **"single"** and **"ensemble"** versions are shared:
 |Model |Accuracy(%)|Download|
 |  ----  | ----  | ---- |  
 |GeReA (Single)| 65.4 |[prediction65.4.json](https://drive.google.com/file/d/1VQgw-iCHx-Y0RRkD5-KHaSuCIaYgXaCK/view?usp=sharing)|
-|REVIVE (Ensemble)| 66.5 |[prediction66.5.json](https://drive.google.com/file/d/1o2uQRAyHFRBe_z4fJcMg_7m93IPpC6SI/view?usp=sharing)|
+|GeReA (Ensemble)| 66.5 |[prediction66.5.json](https://drive.google.com/file/d/1o2uQRAyHFRBe_z4fJcMg_7m93IPpC6SI/view?usp=sharing)|
 
 ### Train the model
 Run the following command to start training (the 2*A100 40G training example):
