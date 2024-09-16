@@ -90,7 +90,7 @@ NGPU=2 python -m torch.distributed.launch --nproc_per_node=2 --master_port 10845
 	--total_step 20000 \
 	--warmup_step 1000 
 ```
-The whole training time is about 24 hours with 2 X A100 (40G) GPUs.
+The whole training time is about 48 hours with 2 X A100 (40G) GPUs.
 
 ### Test the trained model
 Run the following command to start evaluation:
